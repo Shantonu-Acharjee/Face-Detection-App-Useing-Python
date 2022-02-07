@@ -1,6 +1,6 @@
 Project Name :- Face Detection App Useing Python
 Full Blog Link :- https://shantonuacharjee.blogspot.com/2022/02/face-detection-app-useing-python.html
-Github Project Link :- https://tinyurl.com/y3pcfj2e
+Github Project Link :- https://github.com/shantonuacharjee1/Face-Detection-App-Useing-Python
 
 Author: Shantonu Acharjee
 Email: shantonuacharjee@gmail.com
